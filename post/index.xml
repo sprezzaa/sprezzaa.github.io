@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://sprezzaa.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Jan 2022 14:50:57 +0800</lastBuildDate>
+    
+	<atom:link href="https://sprezzaa.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://sprezzaa.github.io/post/test/</link>
+      <pubDate>Mon, 31 Jan 2022 14:50:57 +0800</pubDate>
+      
+      <guid>https://sprezzaa.github.io/post/test/</guid>
+      <description>&lt;p&gt;Antifragile里这一段：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The “do you have evidence” fallacy, mistaking evidence of no harm for no evidence of harm, is similar to the one of misinterpreting NED (no evidence of disease) for evidence of no disease. This is the same error as mistaking absence of evidence for evidence of absence, the one that tends to affect smart and educated people, as if education made people more confirmatory in their responses and more liable to fall into simple logical errors.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;要细致区分evidence of no harm和no evidence of harm，前者是“没有找到有伤害的证明”，后者是“证明没有伤害”。为此回看了一下中文的翻译版本，中信出版社的简中翻译实在不能看，作者是不是自己都没看懂？而且这么关键的概念辨析，竟然连个冒号都不打，阅读起来稍不注意就可能略过了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/sprezzaa/image@main/eRX54w.png&#34; alt=&#34;eRX54w&#34;&gt;&lt;/p&gt;
+&lt;p&gt;再对比一下繁中（已经通过calibre做了横版简化处理）的翻译，格式清晰且容易理解。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/sprezzaa/image@main/mtYWTD.png&#34; alt=&#34;mtYWTD&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;absence of evidence&amp;rdquo; vs &amp;ldquo;evidence of absence&amp;rdquo;
+没有证明 vs 证明没有
+两个概念看上去类似，但却天壤之别，中间飞出无数黑天鹅。&lt;/p&gt;
+&lt;p&gt;Again，当代社科类，原版&amp;gt;繁中版&amp;gt;简中版&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;12/19/21 Update&lt;/p&gt;
+&lt;p&gt;看见一篇相关的文章：&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://astralcodexten.substack.com/p/the-phrase-no-evidence-is-a-red-flag&#34;&gt;The Phrase &amp;ldquo;No Evidence&amp;rdquo; Is A Red Flag For Bad Science Communication&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    
+  </channel>
+</rss>
